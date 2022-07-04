@@ -1,5 +1,5 @@
 - 👋 Ola, sou Paulo Danilo C Lima
-- 👀 Junior IOS Developer
+- 👀 IOS Developer
 - 🌱 Estou me aprimorando em Swift
 - 📫 Meu e-mail de contato é:  paulodanilolima@gmail.com
 
