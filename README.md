@@ -1,6 +1,6 @@
 - 👋 Ola, sou Paulo Danilo C Lima
-- 👀 IOS Developer
-- 🌱 Estou me aprimorando em Swift
+- 👀 IOS Developer Pleno
+- 🌱 Estou sempre estudando e aprendendo novas linguagens
 - 📫 Meu e-mail de contato é:  paulodanilolima@gmail.com
 
 
