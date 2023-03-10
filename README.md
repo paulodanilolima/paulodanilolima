@@ -4,5 +4,4 @@
 - 📫 Meu e-mail de contato é:  paulodanilolima@gmail.com
 
 
-Sou desenvolvedor IOS estou buscando oportunidade na área, sempre trabalhei com Infraestrutura e 
-redes de computador e como analista de TI, mas agora procuro um novo desafio na área de Desenvolvimento IOS.
+Desenvolvedor iOS buscando oportunidades para crescer e aperfeiçoar habilidades. Como um desenvolvedor completo, tenho paixão por criar aplicativos de alta qualidade e fáceis de usar que atendam às necessidades dos meus clientes. Tenho forte experiência em Swift, UIKit, SwiftUI e outras ferramentas de desenvolvimento iOS e sempre estou ansioso por aprender novas tecnologias e ampliar minhas habilidades. Minha atenção aos detalhes, habilidades de resolução de problemas e compromisso em entregar resultados excepcionais junto ao meu time.
