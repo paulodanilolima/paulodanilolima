@@ -12,6 +12,7 @@ Desenvolvedor iOS buscando oportunidades para crescer e aperfeiçoar habilidades
  <div align=center>
  
   [<img align="center" alt="Bash" height="30" width="30" src="https://developer.apple.com/swift/images/swift-og.png" />](https://www.swift.org/documentation/ "Swift")
+   [<img align="center" alt="Bash" height="30" width="30" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" />][(https://developer.apple.com/documentation/swiftui "SwiftUI")
   [<img align="center" alt="Linux" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />](https://www.linux.org/ "Linux")
   [<img align="center" alt="mongoDB" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />](https://www.mongodb.com/ "mongoDB")
   [<img align="center" alt="MySQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>](https://www.mysql.com/ "MySQL")
