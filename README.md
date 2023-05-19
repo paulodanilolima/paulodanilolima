@@ -13,7 +13,7 @@ Desenvolvedor iOS buscando oportunidades para crescer e aperfeiçoar habilidades
  
   [<img align="center" alt="Bash" height="30" width="30" src="https://developer.apple.com/swift/images/swift-og.png" />](https://www.swift.org/documentation/ "Swift")
   [<img align="center" alt="Bash" height="30" width="30" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" />](https://developer.apple.com/documentation/swiftui "SwiftUI")
-  [<img align="center" alt="mongoDB" height="30" width="30" src="https://tinyurl.com/C-programmig" />](http://linguagemc.com.br/ "C")
+  [<img align="center" alt="C" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjnAL5k6HQtERhaIt73Sasb61JUz5gnT1XKg&usqp=CAU" />](http://linguagemc.com.br/ "C")
   [<img align="center" alt="mongoDB" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />](https://www.mongodb.com/ "mongoDB")
   [<img align="center" alt="MySQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>](https://www.mysql.com/ "MySQL")
   [<img align="center" alt="Postman" height="30" width="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />](https://learning.postman.com/docs/developer/intro-api/ "Postman")
