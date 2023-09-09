@@ -4,7 +4,7 @@
 - 📫 Meu e-mail de contato é:  paulodanilolima@gmail.com
 
 
-Com quase 15 anos de experiência na área de TI, trago conmigo uma vasta bagagem de trabalho em equipe, além de profundo conhecimento em diversas aplicações móveis, que vão desde consultorias até serviços financeiros dentro de instituições bancárias, englobando a área de pagamentos nos aplicativos e a criação de módulos completos com uma abordagem arquitetural modular.
+Com quase 15 anos de experiência na área de TI, trago comigo uma vasta bagagem de trabalho em equipe, além de profundo conhecimento em diversas aplicações móveis, que vão desde consultorias até serviços financeiros dentro de instituições bancárias, englobando a área de pagamentos nos aplicativos e a criação de módulos completos com uma abordagem arquitetural modular.
 
 Na função de Supervisor, já estive à frente de equipes numerosas, gerenciando aplicações que suportam mais de milhões de acessos simultâneos. Sempre mantive um foco incansável no cliente, buscando aprimorar tanto a usabilidade quanto a produtividade dos profissionais que utilizam tais sistemas.
 
