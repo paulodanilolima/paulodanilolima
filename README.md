@@ -4,9 +4,7 @@
 - 📫 Meu e-mail de contato é:  paulodanilolima@gmail.com
 
 
-Com quase 15 anos de experiência na área de TI, trago comigo uma vasta bagagem de trabalho em equipe, além de profundo conhecimento em diversas aplicações móveis, que vão desde consultorias até serviços financeiros dentro de instituições bancárias, englobando a área de pagamentos nos aplicativos e a criação de módulos completos com uma abordagem arquitetural modular.
-
-Na função de Supervisor, já estive à frente de equipes numerosas, gerenciando aplicações que suportam mais de milhões de acessos simultâneos. Sempre mantive um foco incansável no cliente, buscando aprimorar tanto a usabilidade quanto a produtividade dos profissionais que utilizam tais sistemas.
+Profissional de TI com 4 anos de experiência em desenvolvimento mobile, especializado em aplicações iOS e arquitetura modular. Possui sólida atuação em projetos de grande escala, liderança de equipes e foco em soluções que melhoram a experiência do usuário. Domina Swift, SwiftUI, MVVM e ferramentas de integração contínua como Jenkins . Reconhecido pela organização, aprendizado rápido e excelência na entrega de resultados.
 
 
 #### Tecnologias
